@@ -1,2 +1,2 @@
 # Hello-World
-Just a nwew repository
+Just a new repository
